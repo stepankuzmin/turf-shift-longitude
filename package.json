@@ -1,0 +1,34 @@
+{
+  "name": "turf-shift-longitude",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stepankuzmin/turf-shift-longitude.git"
+  },
+  "keywords": [
+    "turf",
+    "turfjs",
+    "geojson",
+    "180 meridian",
+    "antimeridian",
+    "dateline"
+  ],
+  "author": "Stepan Kuzmin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stepankuzmin/turf-shift-longitude/issues"
+  },
+  "homepage": "https://github.com/stepankuzmin/turf-shift-longitude",
+  "dependencies": {
+    "clone": "^1.0.2",
+    "turf-meta": "^1.0.2"
+  },
+  "devDependencies": {
+    "tape": "^4.2.0"
+  }
+}
