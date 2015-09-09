@@ -4,19 +4,25 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "tape test.js"
+    "test": "tape test.js",
+    "doc": "dox -r < index.js | doxme --readme > README.md"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/stepankuzmin/turf-shift-longitude.git"
   },
   "keywords": [
+    "functional",
+    "programming",
     "turf",
     "turfjs",
     "geojson",
-    "180 meridian",
+    "180",
+    "longitude",
+    "meridian",
     "antimeridian",
-    "dateline"
+    "dateline",
+    "wrap"
   ],
   "author": "Stepan Kuzmin",
   "license": "ISC",
@@ -29,6 +35,8 @@
     "turf-meta": "^1.0.2"
   },
   "devDependencies": {
+    "dox": "^0.8.0",
+    "doxme": "^1.8.2",
     "tape": "^4.2.0"
   }
 }
