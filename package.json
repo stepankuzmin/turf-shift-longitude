@@ -31,12 +31,12 @@
   },
   "homepage": "https://github.com/stepankuzmin/turf-shift-longitude",
   "dependencies": {
-    "clone": "^1.0.2",
-    "turf-meta": "^1.0.2"
+    "clone": "1.0.2",
+    "turf-meta": "1.0.2"
   },
   "devDependencies": {
-    "dox": "^0.8.0",
-    "doxme": "^1.8.2",
-    "tape": "^4.2.0"
+    "dox": "0.8.0",
+    "doxme": "1.8.2",
+    "tape": "4.2.0"
   }
 }
