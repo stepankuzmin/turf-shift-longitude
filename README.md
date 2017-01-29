@@ -1,8 +1,7 @@
 # turf-shift-longitude
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/stepankuzmin/turf-shift-longitude.svg)](https://greenkeeper.io/)
-
 [![build status](https://secure.travis-ci.org/stepankuzmin/turf-shift-longitude.png)](http://travis-ci.org/stepankuzmin/turf-shift-longitude)
+[![Greenkeeper badge](https://badges.greenkeeper.io/stepankuzmin/turf-shift-longitude.svg)](https://greenkeeper.io/)
 
 
 
