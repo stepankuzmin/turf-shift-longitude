@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/stepankuzmin/turf-shift-longitude",
   "dependencies": {
-    "clone": "2.1.1",
+    "clone": "2.1.2",
     "turf-meta": "3.0.12"
   },
   "devDependencies": {
